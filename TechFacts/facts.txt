@@ -1,0 +1,27 @@
+Marita Cheng founded 2Mar, a company which creates robotic arms for the mobility-impaired.
+Megan Smith is Chief Technology Officer of the United States, working on increasing access to technology across the nation.
+Dr. Wanda Austin is president and CEO of The Aerospace Corporation, which deals with US Security in Space.
+Danielle Feinberg is the director of lighting at Pixar. She has worked on many Blockbuster hits, like Brave and Inside Out!
+Ada Lovelace wrote a program for Charles Babbage's mechanical computer in the 1800s. She is often regarded as the first programmer!
+Grace Hopper invented the first compiler! This allows people to program in English rather than 0's and 1's.
+Evelyn Rios is the Co-founder of Evee, an app that helps you find events in your area.
+Helen Greiner is the founder of iRobot Roomba, a robotic, hand-free vacuum.
+Marci Harris and cachna Choudry founded PopVox, an app that allows users to see what bills are being discussed in Congress.
+Shafi Goldwasser is a Professor of Computer Science in the Theory of Computation at MIT’s CSAIL laboratory, who specializes in cryptography. For her contributions to computer science she received a Turing award (the equivalent of the Nobel Prize in computer science) in 2012.
+Latanya Sweeney is the founder and director of the Data Privacy Lab at Carnegie Mellon. She created DataFly and Scrub which help to de-identify medical documents.
+Ruzwana Bashir founded Peek, a company that matches tourists up with tour operators in over 20 cities.
+Kelechi founded Zuvvaa, a website where people from anywhere in the world can buy clothes from African fashion brands.
+Vanessa Hurst founded CodeMontage, a company that connects people wanting to practice their coding with non-profits looking for help with their application.
+Adele Goldberg is a computer scientist who graduated with a PhD in information science from the University of Chicago. She was one of the key developers (alongside Alan Kay) of Smalltalk, one of the first object-oriented programming languages, based on Simula.
+Erna Schneider Hoover worked at Bell Labs (the Google X of its time) in the 1950s. She invented a telephone switching method to cope with call traffic at peak times. Thanks Erna for improving call drop rates!
+Leah Buechley is an engineer and artist with a PhD from the university of Colorado at Boulder. She invented the LilyPad for Arduino toolkit that is used to make wearable electronics.
+Aprielle Ericsson-Jackson was the first African-American Female PhD at NASA Goddard. She designs satellites to monitor Earth.
+Ayah Bdeir founded a company called littleBits. By selling fun electronics kits, littleBits aims to lead a “hardware renaissance,” so that “everyone, regardless of age, gender, technical ability, or discipline, can be creative with electronics and reinvent their world.”
+Chieko Asakawa is a blind Japanese computer scientist. She developed technologies for accessibility, to help blind users utilize the Web.
+Sally Floyd is one of the top 10 most-cited researchers in computer science. She helped relieve congestion over the Internet.
+Susan Estrada founded CERFNET, one of the first networks to use IP.
+Radia Perlman invented Spanning Tree Protocols which connect networks to each other.
+Elizabeth Feinler directed the Network Information Center, which was part of ARPANet, which developed into the Internet.
+Ginni Rometty is the first female CEO of IBM. She joined the company as a systems engineer back in 1981 and worked her way up to the top!
+Susan Wojciki is the CEO of YouTube. Wojcicki uses her influence to campaign for a cause that is important to her and other career women and men alike: paid parental leave.
+Sheryl Sandber is the COO at Facebook. In 2016, she was named the seventh most powerful woman in the world by Forbes.
